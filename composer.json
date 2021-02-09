@@ -1,0 +1,12 @@
+{
+    "name": "root/restclient",
+    "authors": [
+        {
+            "name": "Allwyn Lobo",
+            "email": "allwyn.lobo@vamaship.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    }
+}
