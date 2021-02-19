@@ -2,6 +2,10 @@
     "name": "root/restclient",
     "authors": [
         {
+            "name": "Akshay Khale",
+            "email": "akshay.khale@vamaship.com"
+        },
+        {
             "name": "Allwyn Lobo",
             "email": "allwyn.lobo@vamaship.com"
         }
